@@ -3,6 +3,8 @@
 # Project Overview
 This project presents a comprehensive Customer Churn Analysis dashboard developed using Power BI. The dashboard is designed to provide key insights into customer behavior, identify factors contributing to churn, and help businesses make data-driven decisions to improve customer retention.
 
+[Dataset](https://github.com/Satyajit546/PowerBI-Projects1/blob/main/Customer%20churn%20PowerBi/02%20Churn-Dataset%20(1).xlsx)
+
 ## Key Features & Insights
 The dashboard focuses on several critical areas to provide a holistic view of customer churn:
 
@@ -35,10 +37,16 @@ Monitor Performance: Offer a visual tool for ongoing monitoring of churn rates a
 # Project Step:
 1.Data Loading: Data source from kaggle and problem statements 
 Dataset
-# ETL process 
-Data type change , Table transformation.
+# ETL Process  
+Power Queryeditor ,Data type change , Table transformation.
 # Dax Function For different Card visual and key metrics
 # Dynamic Visuals and Slicers  and KPL visuals To track business inshights and overview
-Dashboard View
+## [Dashboard View](https://github.com/Satyajit546/PowerBI-Projects1/blob/main/Customer%20churn%20PowerBi/Customer%20Churn%20analysis.png)
 
-Goto Dashboard
+[Insight 1](https://github.com/Satyajit546/PowerBI-Projects1/blob/main/Customer%20churn%20PowerBi/Sc%201.jpg)
+
+[Insights 2](https://github.com/Satyajit546/PowerBI-Projects1/blob/main/Customer%20churn%20PowerBi/sc2.jpg)
+
+[Insight 3](https://github.com/Satyajit546/PowerBI-Projects1/blob/main/Customer%20churn%20PowerBi/sc%203.jpg)
+
+## [Goto Dashboard](https://github.com/Satyajit546/PowerBI-Projects1/blob/main/Customer%20churn%20PowerBi/customer%20%20churn%20analysis.pbix)
